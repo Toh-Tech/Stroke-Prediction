@@ -1,5 +1,18 @@
 # Stroke-Prediction
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Aims and Objectives](#aims-and-objectives)
+- [Data Sources](#data-sources)
+- [Tools and Libraries](#tools-and-libraries)
+- [Data Cleaning/Preparations](#data-cleaning/preparations)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
 ### Introduction
 This report was made as a final capstone project by our group in the Data Analytics class of HerTechTrail Community. The project centers on stroke prediction considering some of the key indicators. The importance of this analysis is to help individuals who are not living with stroke identify the risk factors they already have, and how to manage them in order to prevent having it in the future.
 
