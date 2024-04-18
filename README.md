@@ -14,7 +14,17 @@
 - [Limitations](#limitations)
 
 ### Introduction
+---
 This report was made as a final capstone project by our group in the Data Analytics class of HerTechTrail Community. The project centers on stroke prediction considering some of the key indicators. The importance of this analysis is to help individuals who are not living with stroke identify the risk factors they already have, and how to manage them in order to prevent having it in the future.
+
+![Stroke distribution](https://github.com/Toh-Tech/Stroke-Prediction/assets/108719247/ad3e170d-6fec-4cd2-9163-f9b05cd01dad)
+
+![Patients](https://github.com/Toh-Tech/Stroke-Prediction/assets/108719247/23828572-ee40-4fa3-8909-9fdaf0c065ab)
+
+![Relationship](https://github.com/Toh-Tech/Stroke-Prediction/assets/108719247/84eedac2-edc7-498a-89b8-7ddd7aa467ec)
+
+
+
 
 ### Aims and Objectives
 This report is provided to give actionable insights from the analysis of the data gathered concerning stroke patients. The insights obtained will help us know the risk factors associated with stroke. Some of these factors can be modified while some cannot be modified. Risk factors for stroke that can be modified include hypertension, heart disease, glucose level, lifestyle (smoking), and body mass index. The aim of our project is to analyze an existing dataset to effectively predict stroke based on these modifiable risk factors. This analysis will help alert individuals at risk on how to maintain a healthy lifestyle in order to avoid these risk factors.
